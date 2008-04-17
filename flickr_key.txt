@@ -1,1 +1,16 @@
 KEY flickr : ec4642deba5ee11be60d0b0de724da2f
+
+Key:
+ec4642deba5ee11be60d0b0de724da2f
+App Title: Smashed
+Issued: 14 minutes ago
+Status: Active
+Auth mode: Web (http://compute.cs.columbia.edu:5041)
+
+Its a mashup for school project
+
+
+Secret:
+93afe5d3aacf16ef
+Key:
+ec4642deba5ee11be60d0b0de724da2f 
